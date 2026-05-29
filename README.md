@@ -69,6 +69,6 @@ Para futuras sessões de estudo com este Notebook, utilize os seguintes prompts 
 3. *"Gere 5 perguntas de múltipla escolha de nível intermediário focadas na integração entre os princípios básicos de Segurança da Informação e as diretrizes de prevenção a fraudes do framework COSO, para testar meu conhecimento."*
 
 ---
-*Projeto desenvolvido para o desafio de aprendizagem ativa com IA da DIO, consolidando fundamentos aplicados à rotina de análise de Cyber Risk corporativo.*
+*Projeto desenvolvido para o desafio de aprendizagem ativa com IA da DIO, consolidando fundamentos aplicados à rotina de segurança cibernética corporativa.*
 
-🔗 **Acesse o original:** [Meu Caderno no NotebookLM](https://notebooklm.google.com/notebook/b4090
+🔗 **Acesse o caderno original:** [Meu Caderno no NotebookLM](https://notebooklm.google.com/notebook/b4090d7e-7add-4a30-8266-2f6bc4144aa1)
