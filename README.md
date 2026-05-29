@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="header.png" alt="Banner: Estudos de Segurança Cibernética com IA - Projeto DIO" />
+  <img src="header.png.png" alt="Banner: Estudos de Segurança Cibernética com IA - Projeto DIO" />
 </div>
 <br>
 
