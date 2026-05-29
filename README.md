@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="assets/header.png.png" alt="Capa do Projeto - Segurança Cibernética com IA - PROJETO DIO" width="100%">
+  <img src="header.png" alt="Banner: Estudos de Segurança Cibernética com IA - Projeto DIO" />
 </div>
-
+<br>
 # Miniguia de Estudos: Inteligência Artificial na Prevenção a Fraudes e Segurança da Informação
 
 > **Projeto prático focado na criação de um Caderno Temático no NotebookLM, unindo curadoria de conhecimento, pensamento crítico e Inteligência Artificial.**
