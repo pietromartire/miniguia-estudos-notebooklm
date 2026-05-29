@@ -57,7 +57,7 @@ Durante a exploração do NotebookLM, apliquei diferentes técnicas de *prompt e
 ### Resumo 
 O estudo exige o domínio de frameworks complexos e cenários práticos. Este projeto demonstrou que a Inteligência Artificial atua como um verdadeiro motor de aprendizagem ativa, facilitando a compreensão de grandes normas e que os maiores incidentes não vem apenas de ataques puramente técnicos. Ao integrar a IA na rotina de estudos, torna-se possível cruzar dinamicamente lógicas de segurança, transformando a teoria em simulações interativas que aceleram o desenvolvimento analítico e preparam o profissional para lidar proativamente com ameaças reais.
 
-### 🧠 Glossário de Conceitos
+### Glossário de Conceitos
 
 * **Segurança da Informação:** Prática de proteger dados e sistemas contra acesso, uso, divulgação, interrupção, modificação ou destruição não autorizados.
 * **Prevenção a Fraudes (Governança COSO):** Estruturação de um ambiente com avaliações preventivas e detectivas para mitigar riscos de perdas financeiras ou de dados por ações intencionais (internas ou externas).
