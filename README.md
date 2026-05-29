@@ -1,4 +1,4 @@
-# 🛡️ Miniguia de Estudos: Inteligência Artificial na Prevenção a Fraudes e Segurança da Informação
+# Miniguia de Estudos: Inteligência Artificial na Prevenção a Fraudes e Segurança da Informação
 
 > **Projeto prático focado na criação de um Caderno Temático no NotebookLM, unindo curadoria de conhecimento, pensamento crítico e Inteligência Artificial.**
 
