@@ -33,24 +33,24 @@ Para garantir que a IA gerasse respostas com alta precisão técnica e sem aluci
 
 Durante a exploração do NotebookLM, apliquei diferentes técnicas de *prompt engineering* para refinar os resultados. Abaixo estão documentados os testes, as falhas e as estratégias bem-sucedidas:
 
-### Teste 1: Do cenário geral para o controle específico (IAM)
+### Teste 1: Cenário Geral
 * **Prompt Inicial:** *"Como evitar fraudes e riscos de segurança da informação?"*
 * **Cicatriz (Dificuldade):** A resposta gerada foi muito ampla e superficial, sem focar nas medidas técnicas e preventivas esperadas para uma operação de segurança.
-* **Ajuste (Prompt Refinado):** *"Aja como um Especialista de risco cibernético. Com base EXCLUSIVAMENTE nos documentos do NIST e da ACFE, explique da forma mais resumida possivel: como a implementação de controles e regras rígidas atuam diretamente na prevenção de fraudes internas e externas, listando 3 exemplos práticos."*
+* **Ajuste (Prompt Refinado):** *"Aja como um Especialista com visão ampla às áreas de segurança. Com base EXCLUSIVAMENTE nos documentos do NIST e da ACFE, explique de forma extremamente resumdia: como a implementação de controles e regras rígidas atuam diretamente na prevenção de fraudes internas e externas, listando 3 exemplos práticos."*
 * **Resultado:** A IA cruzou os dados de governança geral com a aplicação técnica, trazendo conceitos claros e coerentes, resposta abaixo:
 
 *Como especialista, afirmo que regras e controles rígidos previnem fraudes ao analisar dados em tempo real para aprovar, revisar ou bloquear ações suspeitas. Exemplos práticos incluem: bloqueio de IPs em listas de restrição, pontuação de risco para telefones descartáveis e limitação de tentativas de login simultâneas.*
 
 ### Teste 2: Criação de Cenários e Lógicas de Detecção
 * **Prompt:** *"Com base no guia da SEON, crie um cenário onde a falta de regras de velocidade (velocity checks) no login gerou um incidente de Account Takeover crítico, e como você mitigaria esse risco utilizando um sistema de scoring."*
-* **Resultado:** A IA simulou um ataque automatizado de preenchimento de credenciais e formulou uma resposta analítica baseada na documentação estudada.
+* **Resultado:** A IA simulou um ataque automatizado de preenchimento de credenciais e formulou uma resposta analítica e executiva baseada na documentação estudada.
 
 ---
 
 ## 📖 Miniguia de Estudo
 
 ### Resumo 
-A prevenção eficaz contra fraudes e a gestão geral de Segurança da Informação exigem uma base operacional sólida. O estudo demonstrou que grande parte dos incidentes não se origina da quebra de criptografias complexas, mas sim da exploração de identidades (fraudes de acesso, credenciais comprometidas, *insider threats*). Ao integrar a governança de riscos (COSO, NIST) com a execução técnica focada em IAM e lógicas dinâmicas de segurança (regras de velocidade e *scoring*), a organização consegue bloquear agentes maliciosos proativamente, garantindo resiliência cibernética.
+A prevenção eficaz contra fraudes e a gestão geral de Segurança da Informação exigem uma base operacional sólida. O estudo demonstrou que grande parte dos incidentes não se origina da quebra de criptografias complexas, mas sim da exploração de identidades (fraudes de acesso, credenciais comprometidas, *insider threats*). Ao integrar a governança de riscos (COSO, NIST) com a execução técnica focada em lógicas dinâmicas de segurança, a organização consegue bloquear agentes maliciosos proativamente, garantindo resiliência.
 
 ### 🧠 Glossário de Conceitos
 
@@ -62,11 +62,13 @@ A prevenção eficaz contra fraudes e a gestão geral de Segurança da Informaç
 
 ### 🔄 Prompts Reutilizáveis para Revisão
 
-Para futuras sessões de estudo com este caderno, utilize os seguintes prompts no NotebookLM:
+Para futuras sessões de estudo com este Notebook, utilize os seguintes prompts no NotebookLM:
 
 1. *"Atue como um especialista em segurança. Crie uma tabela explicando como a quebra de cada pilar da Tríade CIA (Confidencialidade, Integridade e Disponibilidade) pode resultar em diferentes tipos de fraude corporativa, usando os materiais fornecidos como base."*
 2. *"Elabore um cenário prático onde uma organização falhou na sua Gestão de Riscos Cibernéticos e sofreu um incidente. Em seguida, me faça perguntas sobre como eu estruturaria uma solução aplicando o conceito de Defesa em Profundidade (Defense in Depth)."*
 3. *"Gere 5 perguntas de múltipla escolha de nível intermediário focadas na integração entre os princípios básicos de Segurança da Informação e as diretrizes de prevenção a fraudes do framework COSO, para testar meu conhecimento."*
 
 ---
-*Projeto desenvolvido para o desafio de aprendizagem ativa com IA da DIO, consolidando fundamentos aplicados à rotina de análise de Segurança*
+*Projeto desenvolvido para o desafio de aprendizagem ativa com IA da DIO, consolidando fundamentos aplicados à rotina de análise de Cyber Risk corporativo.*
+
+🔗 **Acesse o original:** [Meu Caderno no NotebookLM](https://notebooklm.google.com/notebook/b4090
