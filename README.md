@@ -41,7 +41,7 @@ Durante a exploração do NotebookLM, apliquei diferentes técnicas de *prompt e
 ### Teste 1: Cenário Geral
 * **Prompt Inicial:** *"Como evitar fraudes e riscos de segurança da informação?"*
 * **Dificuldade:** A resposta gerada foi muito ampla e superficial, sem focar nas medidas técnicas e preventivas esperadas para uma operação de segurança.
-* **Prompt Refinado:** *"Aja como um Especialista com visão ampla às áreas de segurança. Com base EXCLUSIVAMENTE nos documentos do NIST e da ACFE, explique de forma extremamente resumdia: como a implementação de controles e regras rígidas atuam diretamente na prevenção de fraudes internas e externas, listando 3 exemplos práticos."*
+* **Prompt Refinado:** *"Aja como um Especialista com visão ampla às áreas de segurança. Com base EXCLUSIVAMENTE nos documentos do NIST e da ACFE, explique de forma extremamente resumida: como a implementação de controles e regras rígidas atuam diretamente na prevenção de fraudes internas e externas, listando 3 exemplos práticos."*
 * **Resultado:** A IA cruzou os dados de governança geral com a aplicação técnica, trazendo conceitos claros e coerentes, resposta abaixo:
 
 *Como especialista, afirmo que regras e controles rígidos previnem fraudes ao analisar dados em tempo real para aprovar, revisar ou bloquear ações suspeitas. Exemplos práticos incluem: bloqueio de IPs em listas de restrição, pontuação de risco para telefones descartáveis e limitação de tentativas de login simultâneas.*
