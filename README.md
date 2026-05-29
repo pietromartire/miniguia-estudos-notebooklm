@@ -35,8 +35,8 @@ Durante a exploração do NotebookLM, apliquei diferentes técnicas de *prompt e
 
 ### Teste 1: Cenário Geral
 * **Prompt Inicial:** *"Como evitar fraudes e riscos de segurança da informação?"*
-* **Cicatriz (Dificuldade):** A resposta gerada foi muito ampla e superficial, sem focar nas medidas técnicas e preventivas esperadas para uma operação de segurança.
-* **Ajuste (Prompt Refinado):** *"Aja como um Especialista com visão ampla às áreas de segurança. Com base EXCLUSIVAMENTE nos documentos do NIST e da ACFE, explique de forma extremamente resumdia: como a implementação de controles e regras rígidas atuam diretamente na prevenção de fraudes internas e externas, listando 3 exemplos práticos."*
+* **Dificuldade:** A resposta gerada foi muito ampla e superficial, sem focar nas medidas técnicas e preventivas esperadas para uma operação de segurança.
+* **Prompt Refinado:** *"Aja como um Especialista com visão ampla às áreas de segurança. Com base EXCLUSIVAMENTE nos documentos do NIST e da ACFE, explique de forma extremamente resumdia: como a implementação de controles e regras rígidas atuam diretamente na prevenção de fraudes internas e externas, listando 3 exemplos práticos."*
 * **Resultado:** A IA cruzou os dados de governança geral com a aplicação técnica, trazendo conceitos claros e coerentes, resposta abaixo:
 
 *Como especialista, afirmo que regras e controles rígidos previnem fraudes ao analisar dados em tempo real para aprovar, revisar ou bloquear ações suspeitas. Exemplos práticos incluem: bloqueio de IPs em listas de restrição, pontuação de risco para telefones descartáveis e limitação de tentativas de login simultâneas.*
@@ -50,7 +50,7 @@ Durante a exploração do NotebookLM, apliquei diferentes técnicas de *prompt e
 ## 📖 Miniguia de Estudo
 
 ### Resumo 
-A prevenção eficaz contra fraudes e a gestão geral de Segurança da Informação exigem uma base operacional sólida. O estudo demonstrou que grande parte dos incidentes não se origina da quebra de criptografias complexas, mas sim da exploração de identidades (fraudes de acesso, credenciais comprometidas, *insider threats*). Ao integrar a governança de riscos (COSO, NIST) com a execução técnica focada em lógicas dinâmicas de segurança, a organização consegue bloquear agentes maliciosos proativamente, garantindo resiliência.
+O estudo exige o domínio de frameworks complexos e cenários práticos. Este projeto demonstrou que a Inteligência Artificial atua como um verdadeiro motor de aprendizagem ativa, facilitando a compreensão de grandes normas e que os maiores incidentes não vem apenas de ataques puramente técnicos. Ao integrar a IA na rotina de estudos, torna-se possível cruzar dinamicamente lógicas de segurança, transformando a teoria em simulações interativas que aceleram o desenvolvimento analítico e preparam o profissional para lidar proativamente com ameaças reais.
 
 ### 🧠 Glossário de Conceitos
 
